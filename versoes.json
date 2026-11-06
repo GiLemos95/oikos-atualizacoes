@@ -1,0 +1,14 @@
+
+{
+  "aplicativo": "OIKOS",
+  "versao_aplicativo": "1.33.0",
+  "versao_base_estavel": "1.32.36",
+  "bases": {
+    "municipios": null,
+    "trs_sema": null,
+    "trs_municipais": null,
+    "normas": null
+  },
+  "atualizacoes_disponiveis": false
+}
+  
