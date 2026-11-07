@@ -3,3 +3,16 @@
   "schema_version": 1,
   "bases": []
 }
+{
+  "schema_version": 1,
+  "bases": [
+    {
+      "id": "municipios",
+      "versao": "1.0.0",
+      "descricao": "Publicação inicial da base homologada de municípios descentralizados; sem alteração normativa.",
+      "arquivo": "municipios_descentralizados.json",
+      "url": "https://raw.githubusercontent.com/GiLemos95/oikos-atualizacoes/main/municipios_descentralizados.json",
+      "sha256": "d2b44c75457888dad7325ca247e1dcc9a89f392255bb0b16ea73ff19bb62e11a"
+    }
+  ]
+}
