@@ -1,0 +1,821 @@
+{
+  "extras": [
+    {
+      "atividade": "MANEJO DE ABELHA NATIVA SEM FERRÃO",
+      "numero": "223",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 8
+    },
+    {
+      "atividade": "OBRA DE DRENAGEM AGRÍCOLA",
+      "numero": "",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "Não possui número",
+      "origem": "extra",
+      "linha_planilha": 9
+    },
+    {
+      "atividade": "AUTORIZAÇÃO DE COLETA, RESGATE E TRANSPORTE DE MATERIAL BOTÂNICO",
+      "numero": "222",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 10
+    },
+    {
+      "atividade": "Licença Especial de Pesca",
+      "numero": "179",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 11
+    },
+    {
+      "atividade": "Licença Especial de Pesca - Resgate e Salvamento",
+      "numero": "214",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 12
+    },
+    {
+      "atividade": "Autorização de Manejo da Fauna Terrestre - Resgate e Salvamento",
+      "numero": "213",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 13
+    },
+    {
+      "atividade": "DESASSOREAMENTO DE BARRAGEM",
+      "numero": "212",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 14
+    },
+    {
+      "atividade": "SUPRESSÃO DE VEGETAÇÃO",
+      "numero": "4",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6",
+      "pdf": "Não possui",
+      "situacao": "Atualizado",
+      "observacoes": "Data de atualização - 22/03/2024",
+      "origem": "extra",
+      "linha_planilha": 15
+    },
+    {
+      "atividade": "FERTIRRIGAÇÃO",
+      "numero": "5",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6",
+      "pdf": "Não possui",
+      "situacao": "Atualizado",
+      "observacoes": "Data de atualização - 04/08/2021",
+      "origem": "extra",
+      "linha_planilha": 16
+    },
+    {
+      "atividade": "Plano de Exploração Florestal em Áreas úmidas, conforme art. 15 da resolução Consema nº 36/2026",
+      "numero": "5",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 17
+    },
+    {
+      "atividade": "Autorização para Coleta e Transporte de Material Botânico",
+      "numero": "17",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 18
+    },
+    {
+      "atividade": "Autorização Especial de Pesca",
+      "numero": "16",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 19
+    },
+    {
+      "atividade": "Autorização para Levantamento de Dados Primários da Fauna Silvestre",
+      "numero": "15",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 20
+    },
+    {
+      "atividade": "Autorização para Manejo de Fauna Silvestre",
+      "numero": "14",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 21
+    },
+    {
+      "atividade": "Estudo de Diagnóstico Ambiental para Dispensa de EIA/RIMA em PEF",
+      "numero": "13",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 22
+    },
+    {
+      "atividade": "Relatório Técnico de Acompanhamento – PMFS/POA previsto no Art. 21 da IN nº 06, de 20 de setembro de 2023 e no art. 1° da IN nº 01, de 26 de abril de 2024",
+      "numero": "12",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 23
+    },
+    {
+      "atividade": "Relatório Técnico para Pós-exploratório – PMFS/POA previsto no Art. 21 da IN nº 06, de 20 de setembro de 2023 e no art. 1° da IN nº 01, de 26 de abril de 2024",
+      "numero": "11",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 24
+    },
+    {
+      "atividade": "Relatório Técnico para Pós-exploratório de Plano de Exploração Florestal – PEF",
+      "numero": "10",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 25
+    },
+    {
+      "atividade": "Vistoria Prévia para Validação de Dados de Campo Apresentados em PMFS e PEF",
+      "numero": "9",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 26
+    },
+    {
+      "atividade": "Aproveitamento dos Resíduos da Exploração Florestal Oriundos de PMFS, PEF e Conversão de Biomassa Florestal em Cavaco para Fins Energéticos",
+      "numero": "8",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 27
+    },
+    {
+      "atividade": "Retificação, Prorrogação e Cancelamento de Atos Autorizativos",
+      "numero": "7",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 28
+    },
+    {
+      "atividade": "Autorização do Corte de Árvores Nativas Isoladas – ACAI",
+      "numero": "6",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 29
+    },
+    {
+      "atividade": "Projeto de Supressão de Vegetação Nativa na Planície Alagável da Bacia do Alto Paraguai (Pantanal) para implantação de gramínea exótica, conforme Lei nº 8.830/2008.",
+      "numero": "4",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 30
+    },
+    {
+      "atividade": "Plano de Exploração de Florestal – PEF",
+      "numero": "3",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 31
+    },
+    {
+      "atividade": "Licenciamento para Plano de Manejo Florestal Sustentável",
+      "numero": "2",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 32
+    },
+    {
+      "atividade": "Autorização para Queima Controlada",
+      "numero": "30",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 33
+    },
+    {
+      "atividade": "AUTORIZACAO DE QUEIMA CONTROLADA PANTANAL - BAP",
+      "numero": "44",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 34
+    },
+    {
+      "atividade": "Prorrogação da Autorização de Queima Controlada - 2024",
+      "numero": "31",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 35
+    },
+    {
+      "atividade": "Plano de Suprimento Sustentável - PSS",
+      "numero": "40",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 36
+    },
+    {
+      "atividade": "Plano de Suprimento Sustentável - PSS Para Empreendimentos com Licença Vigente",
+      "numero": "39",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 37
+    },
+    {
+      "atividade": "Reflorestamento Desvinculação de Floresta Plantada",
+      "numero": "42",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 38
+    },
+    {
+      "atividade": "Reflorestamento Alteração de Detentor e outros",
+      "numero": "41",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 39
+    },
+    {
+      "atividade": "Reflorestamento Aditivo de Créditos de Reposição Florestal",
+      "numero": "36",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 40
+    },
+    {
+      "atividade": "Reflorestamento CPPF Cadastro de Projeto de Plantio",
+      "numero": "35",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 41
+    },
+    {
+      "atividade": "Reflorestamento Plano de Corte Seletivo",
+      "numero": "34",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 42
+    },
+    {
+      "atividade": "Reflorestamento Plano de Corte Final",
+      "numero": "33",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 43
+    },
+    {
+      "atividade": "Reflorestamento Levantamento Circunstanciado",
+      "numero": "32",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 44
+    },
+    {
+      "atividade": "DIAGNÓSTICO LP DE OBRA DE DRENAGEM AGRÍCOLA EM ÁREAS DE ATÉ 260 HA EM ÁREAS ÚMIDAS",
+      "numero": "219",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/240-agropecu%C3%A1ria,-piscicultura-e-irriga%C3%A7%C3%A3o",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 45
+    },
+    {
+      "atividade": "DIAGNÓSTICO PARA REGULARIZAÇÃO DE OBRAS DE DRENAGEM AGRÍCOLA EM ÁREAS ÚMIDAS",
+      "numero": "218",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/240-agropecu%C3%A1ria,-piscicultura-e-irriga%C3%A7%C3%A3o",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 46
+    },
+    {
+      "atividade": "PCA PARA REGULARIZAÇÃO DE DRENAGEM AGRÍCOLA EM SOLOS NÃO HIDROMÓRFICOS",
+      "numero": "216",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/240-agropecu%C3%A1ria,-piscicultura-e-irriga%C3%A7%C3%A3o",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 47
+    },
+    {
+      "atividade": "DESCARACTERIZAÇÃO E DELIMITAÇÃO DE ÁREAS ÚMIDAS E DAQUELAS DE USO RESTRITO",
+      "numero": "215",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/240-agropecu%C3%A1ria,-piscicultura-e-irriga%C3%A7%C3%A3o",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 48
+    },
+    {
+      "atividade": "DIAGNÓSTICO PARA LAU OBRA CONSOLIDADA - 2008 A 2022",
+      "numero": "221",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/240-agropecu%C3%A1ria,-piscicultura-e-irriga%C3%A7%C3%A3o",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 49
+    },
+    {
+      "atividade": "DIAGNÓSTICO PARA LAU OBRA CONSOLIDADA - 2008",
+      "numero": "220",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/240-agropecu%C3%A1ria,-piscicultura-e-irriga%C3%A7%C3%A3o",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 50
+    },
+    {
+      "atividade": "RCA PARA LICENÇA PRÉVIA DE OBRA DE DRENAGEM AGRÍCOLA EM SOLOS NÃO HIDROMÓRFICOS",
+      "numero": "217",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/240-agropecu%C3%A1ria,-piscicultura-e-irriga%C3%A7%C3%A3o",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 51
+    },
+    {
+      "atividade": "DESASSOREAMENTO DE BARRAGEM",
+      "numero": "212",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/240-agropecu%C3%A1ria,-piscicultura-e-irriga%C3%A7%C3%A3o",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 52
+    },
+    {
+      "atividade": "DESCOMISSIONAMENTO DE BARRAGEM",
+      "numero": "209",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/240-agropecu%C3%A1ria,-piscicultura-e-irriga%C3%A7%C3%A3o",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 53
+    },
+    {
+      "atividade": "LICENÇA DE OPERAÇÃO DE BARRAMENTOS",
+      "numero": "208",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/240-agropecu%C3%A1ria,-piscicultura-e-irriga%C3%A7%C3%A3o",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 54
+    },
+    {
+      "atividade": "LICENÇA DE INSTALAÇÃO DE BARRAMENTOS",
+      "numero": "207",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/240-agropecu%C3%A1ria,-piscicultura-e-irriga%C3%A7%C3%A3o",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 55
+    },
+    {
+      "atividade": "LICENÇA PRÉVIA DE BARRAMENTOS",
+      "numero": "206",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/240-agropecu%C3%A1ria,-piscicultura-e-irriga%C3%A7%C3%A3o",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 56
+    },
+    {
+      "atividade": "Rede Distribuição Rural",
+      "numero": "72",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/240-agropecu%C3%A1ria,-piscicultura-e-irriga%C3%A7%C3%A3o",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 57
+    },
+    {
+      "atividade": "Tablado Flutuante",
+      "numero": "134",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/240-agropecu%C3%A1ria,-piscicultura-e-irriga%C3%A7%C3%A3o",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 58
+    },
+    {
+      "atividade": "Autorizacao Ambiental de Funcionamento (AAF) para reserragem de madeiras em empreendimento de comercio de madeiras em geral",
+      "numero": "175",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/243-ind%C3%BAstria",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 59
+    },
+    {
+      "atividade": "Autorizacao Ambiental de Funcionamento (AAF) para picador movel de madeiras operando conjuntamente a industria",
+      "numero": "174",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/243-ind%C3%BAstria",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 60
+    },
+    {
+      "atividade": "Autorizacao Ambiental de Funcionamento (AAF) para picador movel de madeiras operando em area florestal de imovel rural",
+      "numero": "173",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/243-ind%C3%BAstria",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 61
+    },
+    {
+      "atividade": "Licença de Operação Provisória - LOP DE SERRARIA MÓVEL",
+      "numero": "172",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/243-ind%C3%BAstria",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 62
+    },
+    {
+      "atividade": "Licença de Operação Provisória - LOP DE PICADOR MÓVEL",
+      "numero": "171",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/243-ind%C3%BAstria",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 63
+    },
+    {
+      "atividade": "Licença Prévia e de Instalação para Loteamento Urbano de Cunho Social ou Interesse Público – LP e LI",
+      "numero": "210",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/243-ind%C3%BAstria",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 64
+    },
+    {
+      "atividade": "Licença de Instalação - LI VIADUTOS, TÚNEIS E PONTES",
+      "numero": "132",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/243-ind%C3%BAstria",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 65
+    },
+    {
+      "atividade": "Licença Prévia - LP VIADUTOS, TÚNEIS E PONTES",
+      "numero": "131",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/243-ind%C3%BAstria",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 66
+    },
+    {
+      "atividade": "Renovação de Outorga de Direito de Uso de Água Subterrânea para Irrigação acima de 30 hectares",
+      "numero": "20",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/248-recursos-h%C3%ADdricos",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 68
+    },
+    {
+      "atividade": "Alteração de Outorga de Direito de Uso de Água Subterrânea para Irrigação acima de 30 hectares",
+      "numero": "19",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/248-recursos-h%C3%ADdricos",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 69
+    },
+    {
+      "atividade": "OUTORGA CGH",
+      "numero": "16",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/248-recursos-h%C3%ADdricos",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 70
+    },
+    {
+      "atividade": "TAMPONAMENTO DE POÇOS TUBULARES",
+      "numero": "15",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/248-recursos-h%C3%ADdricos",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 71
+    },
+    {
+      "atividade": "CADASTRO DE CAPTAÇÃO INSIGNIFICANTE ÁGUA SUBTERRÂNEA",
+      "numero": "14",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/248-recursos-h%C3%ADdricos",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 72
+    },
+    {
+      "atividade": "OUTORGA DE ÁGUA SUBTERRÂNEA IRRIGAÇÃO",
+      "numero": "13",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/248-recursos-h%C3%ADdricos",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 73
+    },
+    {
+      "atividade": "OUTORGA DE DIREITO DE USO DAS ÁGUAS SUBTERRÂNEAS",
+      "numero": "12",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/248-recursos-h%C3%ADdricos",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 74
+    },
+    {
+      "atividade": "AUTORIZAÇÃO DE PERFURAÇÃO IRRIGAÇÃO",
+      "numero": "11",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/248-recursos-h%C3%ADdricos",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 75
+    },
+    {
+      "atividade": "AUTORIZAÇÃO DE PERFURAÇÃO",
+      "numero": "10",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/248-recursos-h%C3%ADdricos",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 76
+    },
+    {
+      "atividade": "OUTORGA PARA CAPTAÇÃO EM RESERVATÓRIO FORMADO POR BARRAMENTO",
+      "numero": "9",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/248-recursos-h%C3%ADdricos",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 77
+    },
+    {
+      "atividade": "CONVERSÃO DRDH EM OUTORGA",
+      "numero": "8",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/248-recursos-h%C3%ADdricos",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 78
+    },
+    {
+      "atividade": "DESISTÊNCIA DE OUTORGA SUP-SUB",
+      "numero": "7",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/248-recursos-h%C3%ADdricos",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 79
+    },
+    {
+      "atividade": "TRANSFERÊNCIA DE OUTORGA SUP-SUB",
+      "numero": "6",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/248-recursos-h%C3%ADdricos",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 80
+    },
+    {
+      "atividade": "ALTERAÇÃO DA OUTORGA SUP-SUB",
+      "numero": "5",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/248-recursos-h%C3%ADdricos",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 81
+    },
+    {
+      "atividade": "RENOVAÇÃO DE OUTORGA SUP-SUB",
+      "numero": "4",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/248-recursos-h%C3%ADdricos",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 82
+    },
+    {
+      "atividade": "CADASTRO DE CAPTAÇÃO INSIGNIFICANTE ÁGUA SUPERFICIAL",
+      "numero": "3",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/248-recursos-h%C3%ADdricos",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 83
+    },
+    {
+      "atividade": "OUTORGA DE CAPTAÇÃO E DILUIÇÃO",
+      "numero": "2",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/248-recursos-h%C3%ADdricos",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "observacoes": "",
+      "origem": "extra",
+      "linha_planilha": 84
+    }
+  ],
+  "especiais": [
+    {
+      "atividade": "Documentação do Empreendedor e Empreendimento",
+      "numero": "1",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "modalidade": "LP+LI+LO",
+      "origem": "especial",
+      "linha_planilha": 10,
+      "exibir_classificador": true
+    },
+    {
+      "atividade": "ALTERAÇÃO DE RAZÃO SOCIAL",
+      "numero": "2",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6",
+      "pdf": "Não possui",
+      "situacao": "Ativo",
+      "modalidade": "LP+LI+LO",
+      "origem": "especial",
+      "linha_planilha": 11,
+      "exibir_classificador": false
+    },
+    {
+      "atividade": "Renovação LAS",
+      "numero": "211",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/242-atividades-de-baixo-impacto",
+      "pdf": "",
+      "situacao": "",
+      "modalidade": "LAS",
+      "origem": "especial",
+      "linha_planilha": 12,
+      "exibir_classificador": true
+    },
+    {
+      "atividade": "Relatório de Monitoramento - LAC",
+      "numero": "210",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/242-atividades-de-baixo-impacto",
+      "pdf": "",
+      "situacao": "",
+      "modalidade": "LAC",
+      "origem": "especial",
+      "linha_planilha": 13,
+      "exibir_classificador": true
+    },
+    {
+      "atividade": "Relatório de Monitoramento - LAS",
+      "numero": "210",
+      "link_pagina": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/242-atividades-de-baixo-impacto",
+      "pdf": "",
+      "situacao": "",
+      "modalidade": "LAS",
+      "origem": "especial",
+      "linha_planilha": 14,
+      "exibir_classificador": true
+    }
+  ]
+}

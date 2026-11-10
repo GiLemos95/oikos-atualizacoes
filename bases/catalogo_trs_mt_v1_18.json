@@ -1,0 +1,185 @@
+{
+  "versao": "1.18",
+  "descricao": "Fontes oficiais e vínculos específicos por atividade; somente vínculos confirmados são exibidos. Não atualiza automaticamente a vigência.",
+  "fontes": [
+    {
+      "chave": "GERAL",
+      "orgao": "SEMA/MT",
+      "modalidades": [
+        "LP",
+        "LI",
+        "LO",
+        "LOPM"
+      ],
+      "url": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6",
+      "situacao": "Fonte oficial cadastrada; conferência de disponibilidade sob demanda",
+      "ultima_verificacao": null,
+      "observacoes": "Página de consulta geral por modalidade; não vincula TR específico a atividade."
+    },
+    {
+      "chave": "LAC",
+      "orgao": "SEMA/MT",
+      "modalidades": [
+        "LAC"
+      ],
+      "url": "https://www.sema.mt.gov.br/site/index.php/licen%C3%A7a-por-ades%C3%A3o-e-compromisso",
+      "situacao": "Fonte oficial cadastrada; conferência de disponibilidade sob demanda",
+      "ultima_verificacao": null,
+      "observacoes": "Página de consulta geral por modalidade; não vincula TR específico a atividade."
+    },
+    {
+      "chave": "LAS",
+      "orgao": "SEMA/MT",
+      "modalidades": [
+        "LAS"
+      ],
+      "url": "https://www.sema.mt.gov.br/site/index.php/licen%C3%A7a-ambiental-simplificada",
+      "situacao": "Fonte oficial cadastrada; conferência de disponibilidade sob demanda",
+      "ultima_verificacao": null,
+      "observacoes": "Página de consulta geral por modalidade; não vincula TR específico a atividade."
+    }
+  ],
+  "trs_especificos": [],
+  "categorias": [
+    {
+      "nome": "Agropecuária, Piscicultura e Irrigação",
+      "url": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/240-agropecu%C3%A1ria,-piscicultura-e-irriga%C3%A7%C3%A3o",
+      "termos": [
+        "suinocultura",
+        "bovinocultura",
+        "avicultura",
+        "piscicultura",
+        "irrigacao",
+        "confinamento",
+        "criacoes de bovinos",
+        "criacao de bovinos",
+        "producao de ovos",
+        "barramento",
+        "drenagem agricola"
+      ],
+      "fonte": "Categoria oficial SEMA/MT",
+      "ultima_verificacao": "2026-10-08"
+    },
+    {
+      "nome": "Empreendimentos Energéticos",
+      "url": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/241-empreendimentos-energ%C3%A9ticos",
+      "termos": [
+        "usina termoeletrica",
+        "usina termica",
+        "termoeletrica",
+        "fotovoltaica",
+        "energia solar",
+        "energia eolica",
+        "geracao de energia",
+        "central geradora",
+        "pequena central hidreletrica",
+        "hidreletrica"
+      ],
+      "fonte": "Categoria oficial SEMA/MT",
+      "ultima_verificacao": "2026-10-08"
+    },
+    {
+      "nome": "Indústria",
+      "url": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/243-ind%C3%BAstria",
+      "termos": [
+        "fabricacao",
+        "industria",
+        "industrializacao",
+        "beneficiamento de algodao",
+        "algodoeira",
+        "frigorifico",
+        "abatedouro",
+        "serraria",
+        "desdobramento de madeira",
+        "laticinios"
+      ],
+      "fonte": "Categoria oficial SEMA/MT",
+      "ultima_verificacao": "2026-10-08"
+    },
+    {
+      "nome": "Infraestrutura",
+      "url": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/244-infraestrutura",
+      "termos": [
+        "loteamento",
+        "pavimentacao",
+        "rodovia",
+        "ferrovia",
+        "aeroporto",
+        "parcelamento do solo",
+        "construcao de ponte",
+        "porto fluvial"
+      ],
+      "fonte": "Categoria oficial SEMA/MT",
+      "ultima_verificacao": "2026-10-08"
+    },
+    {
+      "nome": "Mineração",
+      "url": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/245-minera%C3%A7%C3%A3o",
+      "termos": [
+        "extracao mineral",
+        "extracao de minerio",
+        "pesquisa mineral",
+        "lavra",
+        "mineracao",
+        "garimpo",
+        "cascalho",
+        "ouro",
+        "calcario",
+        "areia para construcao"
+      ],
+      "fonte": "Categoria oficial SEMA/MT",
+      "ultima_verificacao": "2026-10-08"
+    },
+    {
+      "nome": "Resíduos Sólidos",
+      "url": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/246-res%C3%ADduos-s%C3%B3lidos",
+      "termos": [
+        "aterro sanitario",
+        "aterro industrial",
+        "residuos solidos",
+        "tratamento de residuos",
+        "disposicao final de residuos",
+        "reciclagem de residuos"
+      ],
+      "fonte": "Categoria oficial SEMA/MT",
+      "ultima_verificacao": "2026-10-08"
+    },
+    {
+      "nome": "Serviços",
+      "url": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/247-servi%C3%A7os",
+      "termos": [
+        "posto de abastecimento",
+        "posto revendedor",
+        "lavagem de veiculos",
+        "lava jato",
+        "oficina mecanica",
+        "armazenamento de produtos perigosos",
+        "deposito de defensivos",
+        "armazenamento de agrotoxicos"
+      ],
+      "fonte": "Categoria oficial SEMA/MT",
+      "ultima_verificacao": "2026-10-08"
+    },
+    {
+      "nome": "Gestão Florestal",
+      "url": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/239-termos-refer%C3%AAncia-padr%C3%A3o-gest%C3%A3o-florestal",
+      "termos": [
+        "manejo florestal",
+        "exploracao florestal",
+        "supressao vegetal",
+        "supressao de vegetacao"
+      ],
+      "fonte": "Categoria oficial SEMA/MT",
+      "ultima_verificacao": "2026-10-08"
+    },
+    {
+      "nome": "Atividades de Baixo Impacto",
+      "url": "https://www.sema.mt.gov.br/site/index.php/2013-10-27-00-11-6/category/242-atividades-de-baixo-impacto",
+      "termos": [
+        "atividade de baixo impacto"
+      ],
+      "fonte": "Categoria oficial SEMA/MT",
+      "ultima_verificacao": "2026-10-08"
+    }
+  ]
+}

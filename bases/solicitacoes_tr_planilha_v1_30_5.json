@@ -1,0 +1,457 @@
+{
+  "registros": [
+    {
+      "linha_planilha": 595,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Parque Eólico / Usina Eólica / Central Eólica e Usina por meio de fonte solar para sistemas helitérmicos e fotovoltaicos",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": "Solicitar ao setor responsável (CEE/CIND/CINF)"
+    },
+    {
+      "linha_planilha": 608,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Unidade de Cogeração de Energia Elétrica",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": "Solicitar ao setor responsável (CEE/CIND/CINF)"
+    },
+    {
+      "linha_planilha": 609,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Unidade de Cogeração de Energia Elétrica",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": "Solicitar ao setor responsável (CEE/CIND/CINF)"
+    },
+    {
+      "linha_planilha": 610,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Usina Hidrelétrica",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": "Solicitar ao setor responsável (CEE/CIND/CINF)"
+    },
+    {
+      "linha_planilha": 611,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Usina Hidrelétrica",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": "Solicitar ao setor responsável (CEE/CIND/CINF)"
+    },
+    {
+      "linha_planilha": 627,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Estação de transferência (transbordo) de resíduos sólidos urbanos",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 628,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Centrais e Postos de recebimento de embalagens de agrotóxicos e afins, vazias ou contendo resíduos pós-consumo.",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 629,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Armazenamento temporário e/ou reciclagem de óleo",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 633,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Produção de composto oriundo de resíduos industriais e/ou urbanos",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 634,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Aterro para resíduos não perigosos - classe II, de origem industrial.",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 635,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Aterro sanitário de resíduos sólidos urbanos.",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 636,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Tratamento e disposição final de resíduos oriundos de fossas",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 637,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Aterros de resíduos da construção civil (RCC)",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 638,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Área de Transbordo e Triagem (ATT) e/ou Reciclagem de resíduos da construção civil (RCC).",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 639,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Incineração de resíduos",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 640,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Tratamento térmico de resíduos (pirólise, gaseificação e quaisquer outras tecnologias)",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 641,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Coprocessamento de resíduos",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 646,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Aterro para resíduos perigosos - classe I, de origem industrial.",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 665,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Autoclavagem de resíduos de serviços de saúde.",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 666,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Incineração de resíduos de serviços de saúde.",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 667,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Unidade de mistura e pré-condicionamento de resíduos para co-processamento em fornos de clínquer",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 668,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Rerrefino de óleos lubrificantes usados.",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 669,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Outras formas de tratamento ou de disposição de resíduos não listadas ou não classificadas.",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 697,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Autódromos",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 698,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Aeroportos",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 705,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Construção de redes de esgoto com emissários, coletores tronco, elevatórias, inclusive de interceptores",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 706,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Construção de redes de Transportes por dutos",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 707,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Construção de redes de abastecimento de água",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 708,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Obras portuárias, marítimas e fluviais",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 709,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Canalização de cursos d'água",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 710,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Retificação de cursos d'água",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 711,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Hidrovias, abertura de canais para navegação",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 712,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Transposição de bacias hidrográficas",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 713,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Canalização de córregos",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 717,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Montagem de estruturas metálicas",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 718,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Parcelamento de Solo",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 719,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INFRAESTRUTURA",
+      "atividade": "Muros de contenção em APP",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 746,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "SERVIÇOS",
+      "atividade": "Serviços de cremação de cadáveres humanos e animais",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 747,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "SERVIÇOS",
+      "atividade": "Atividades de Somatoconservação - Tanatopraxia",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 748,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "SERVIÇOS",
+      "atividade": "Centro de triagem e reabilitação de animais silvestres",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 749,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "SERVIÇOS",
+      "atividade": "Empreendimento comercial de partes, produtos e subprodutos da fauna silvestre ou exótica",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 750,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "SERVIÇOS",
+      "atividade": "Empreendimento comercial de animais vivos da fauna silvestre nativa ou da fauna exótica",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": ""
+    },
+    {
+      "linha_planilha": 4,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "AGRICULTURA, PECUÁRIA, PRODUÇÃO FLORESTAL, PESCA E AQUICULTURA",
+      "atividade": "Tratamento  de Sementes",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": "",
+      "origem": "Nº do TR em branco; coluna de disponibilidade: Não disponibilizado"
+    },
+    {
+      "linha_planilha": 248,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INDÚSTRIA DE TRANSFORMAÇÃO",
+      "atividade": "Tratamento Químico para Preservação de Madeira",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": "",
+      "origem": "Nº do TR em branco; coluna de disponibilidade: Não disponibilizado"
+    },
+    {
+      "linha_planilha": 252,
+      "anexo": "II",
+      "modalidade_normativa": "LP+LI+LO",
+      "grupo": "INDÚSTRIA DE TRANSFORMAÇÃO",
+      "atividade": "Resserragem/Redimensionamento",
+      "tipo_solicitacao": "",
+      "orientacao": "Solicitar TR ao órgão",
+      "observacoes": "",
+      "origem": "Nº do TR em branco; coluna de disponibilidade: Não disponibilizado"
+    }
+  ]
+}
