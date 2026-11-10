@@ -13,13 +13,13 @@
   ],
   "aplicativo": {
   "id": "oikos-app",
-  "versao": "1.36.1",
-  "url": "https://raw.githubusercontent.com/GiLemos95/oikos-atualizacoes/main/oikos-app-1.36.1.zip",
-  "sha256": "6ebb5f1973e35d95d1265106d9368290dc2d22284295f6e8d14c578cdf9064bc",
+  "versao": "1.36.2",
+  "url": "https://raw.githubusercontent.com/GiLemos95/oikos-atualizacoes/main/oikos-app-1.36.2.zip",
+  "sha256": "b67bf0633881bb0c3165ae26aea623cd662083cee7b834c9b1fb29061d7f6651",
   "arquivos": [
     {
       "nome": "OIKOS.py",
-      "sha256": "814eaccdb81e4bfd8d6bd500fb2d31d4451b459a4fbb6810ba2511ff78f0267a"
+      "sha256": "534ee10bbe31c61d6009da8d8b0637bc341545639880e59d893c7ab16cb5be68"
     },
     {
       "nome": "ATUALIZADOR_COMPLETO.py",
@@ -30,5 +30,4 @@
       "sha256": "4e4d87a5acfa6d62de24957fb2e8901208badddf87a40cda10ae2ee998b9db3a"
     }
   ]
-}
 }
