@@ -10,5 +10,13 @@
       "url": "https://raw.githubusercontent.com/GiLemos95/oikos-atualizacoes/main/municipios_descentralizados.json",
       "sha256": "d2b44c75457888dad7325ca247e1dcc9a89f392255bb0b16ea73ff19bb62e11a"
     }
-  ]
+  ],
+  "aplicativo": {
+    "id": "oikos-app",
+    "versao": "1.35.4",
+    "descricao": "Atualização do aplicativo; bases normativas inalteradas",
+    "url": "https://raw.githubusercontent.com/GiLemos95/oikos-atualizacoes/main/oikos-app-1.35.4.zip",
+    "sha256": "5ad6437681e0af561f5b06891aeb232fd01b84588e6113bdbb80812a96ed1145",
+    "sha256_oikos_py": "a312b6908fb09832156db30f1d502ba77a9c6a3cfeda5acad1814177897e34b0"
+  }
 }
