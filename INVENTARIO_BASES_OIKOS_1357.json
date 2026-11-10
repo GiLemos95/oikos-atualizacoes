@@ -1,0 +1,71 @@
+{
+  "tipo": "inventario_referencial",
+  "aplicativo_referencia": "1.35.7",
+  "instalacao_bases_habilitada": false,
+  "observacao": "Este inventario NAO e um catalogo de atualizacao e nao autoriza substituicao de bases.",
+  "arquivos": [
+    {
+      "arquivo": "bases/municipios_descentralizados.json",
+      "url": "https://raw.githubusercontent.com/GiLemos95/oikos-atualizacoes/main/bases/municipios_descentralizados.json",
+      "sha256": "d2b44c75457888dad7325ca247e1dcc9a89f392255bb0b16ea73ff19bb62e11a",
+      "bytes": 7698,
+      "versao_base": "1.0.0",
+      "origem": "arquivo incorporado ao OIKOS homologado",
+      "politica": "somente_leitura_sem_instalacao"
+    },
+    {
+      "arquivo": "bases/catalogo_trs_associacoes_v1_27.json",
+      "url": "https://raw.githubusercontent.com/GiLemos95/oikos-atualizacoes/main/bases/catalogo_trs_associacoes_v1_27.json",
+      "sha256": "dc3bdc212ab3779ab97b1bd0ee6de1194ad773fc715e31812c7c3045a9ffd4e8",
+      "bytes": 1467897,
+      "versao_base": null,
+      "origem": "arquivo incorporado ao OIKOS homologado",
+      "politica": "somente_leitura_sem_instalacao"
+    },
+    {
+      "arquivo": "bases/catalogo_trs_complementares_oikos.json",
+      "url": "https://raw.githubusercontent.com/GiLemos95/oikos-atualizacoes/main/bases/catalogo_trs_complementares_oikos.json",
+      "sha256": "df208a40374e22c240bce66acbdc3b6c123a28a71e9bbd256f953cb4e78dadd1",
+      "bytes": 31085,
+      "versao_base": null,
+      "origem": "arquivo incorporado ao OIKOS homologado",
+      "politica": "somente_leitura_sem_instalacao"
+    },
+    {
+      "arquivo": "bases/catalogo_trs_mt_v1_18.json",
+      "url": "https://raw.githubusercontent.com/GiLemos95/oikos-atualizacoes/main/bases/catalogo_trs_mt_v1_18.json",
+      "sha256": "b072023ecec6db6312e47b6a05cab4c4ef3b1e133eab64faedc461c74f9169ab",
+      "bytes": 5961,
+      "versao_base": null,
+      "origem": "arquivo incorporado ao OIKOS homologado",
+      "politica": "somente_leitura_sem_instalacao"
+    },
+    {
+      "arquivo": "bases/solicitacoes_tr_planilha_v1_30_5.json",
+      "url": "https://raw.githubusercontent.com/GiLemos95/oikos-atualizacoes/main/bases/solicitacoes_tr_planilha_v1_30_5.json",
+      "sha256": "d36318f8e9fdfc9114117d99263786388cff8e9b9434966488e3d08ae0946fbb",
+      "bytes": 14735,
+      "versao_base": null,
+      "origem": "arquivo incorporado ao OIKOS homologado",
+      "politica": "somente_leitura_sem_instalacao"
+    },
+    {
+      "arquivo": "bases/consema_74_2025_embutida_oikos_1357.json",
+      "url": "https://raw.githubusercontent.com/GiLemos95/oikos-atualizacoes/main/bases/consema_74_2025_embutida_oikos_1357.json",
+      "sha256": "2ce42438a1d051909e2f4a5ef1ea17be7ef5599b52c5134e1e41a5f8d47165a1",
+      "bytes": 232597,
+      "versao_base": null,
+      "origem": "extracao literal do OIKOS.py v1.35.7",
+      "politica": "somente_leitura_sem_instalacao"
+    },
+    {
+      "arquivo": "bases/decreto_1585_2022_embutida_oikos_1357.json",
+      "url": "https://raw.githubusercontent.com/GiLemos95/oikos-atualizacoes/main/bases/decreto_1585_2022_embutida_oikos_1357.json",
+      "sha256": "1dc21747385546e9d2b7fba414022560315bdeb672c688994064075f31940f8c",
+      "bytes": 181679,
+      "versao_base": null,
+      "origem": "extracao literal do OIKOS.py v1.35.7",
+      "politica": "somente_leitura_sem_instalacao"
+    }
+  ]
+}
