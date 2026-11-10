@@ -13,10 +13,23 @@
   ],
   "aplicativo": {
     "id": "oikos-app",
-    "versao": "1.35.8",
-    "descricao": "Consulta somente leitura do inventário homologado das sete bases no GitHub; sem alterações normativas",
-    "url": "https://raw.githubusercontent.com/GiLemos95/oikos-atualizacoes/main/oikos-app-1.35.8.zip",
-    "sha256": "43a3671eca9c4b60a4526a49a4963a4e72bccdf68aaafa0720d3e296a6e5f116",
-    "sha256_oikos_py": "c3ab501962ae3941066cc7e692b5089052ff17d352e1c6ae05094ddf92ac1926"
+    "versao": "1.35.9",
+    "descricao": "Transição para atualizador multi-arquivo; bases normativas preservadas",
+    "url": "https://raw.githubusercontent.com/GiLemos95/oikos-atualizacoes/main/oikos-app-1.35.9.zip",
+    "sha256": "d902f3d3d6a73ef5c2ba95a892743f418e116364d1e1b3b59cfcb4d7263ff8b3",
+    "arquivos": [
+      {
+        "nome": "OIKOS.py",
+        "sha256": "b3f607edc3958b7d04165d6d3bb7559bd877415a8ef68da9959be98e72be78a5"
+      },
+      {
+        "nome": "ATUALIZADOR_COMPLETO.py",
+        "sha256": "6a2ef273ed24692d9f5bd43cc2b1ff83064b847a2dfed5835d6b0444fdf65257"
+      },
+      {
+        "nome": "ATUALIZAR_APLICATIVO.py",
+        "sha256": "4e4d87a5acfa6d62de24957fb2e8901208badddf87a40cda10ae2ee998b9db3a"
+      }
+    ]
   }
 }
