@@ -13,10 +13,10 @@
   ],
   "aplicativo": {
     "id": "oikos-app",
-    "versao": "1.35.7",
-    "descricao": "Correção da identificação visual da versão e esclarecimento do bloqueio de bases normativas; dados normativos inalterados",
-    "url": "https://raw.githubusercontent.com/GiLemos95/oikos-atualizacoes/main/oikos-app-1.35.7.zip",
-    "sha256": "1db6698f79cb488cf5b4aac5e49bf0cae113bca5a953915111a950f5cb0cec44",
-    "sha256_oikos_py": "64d1ab541ffb478dc4aca38029efdfd42c84e0e2612d1833fd4cdc69f8934a34"
+    "versao": "1.35.8",
+    "descricao": "Consulta somente leitura do inventário homologado das sete bases no GitHub; sem alterações normativas",
+    "url": "https://raw.githubusercontent.com/GiLemos95/oikos-atualizacoes/main/oikos-app-1.35.8.zip",
+    "sha256": "43a3671eca9c4b60a4526a49a4963a4e72bccdf68aaafa0720d3e296a6e5f116",
+    "sha256_oikos_py": "c3ab501962ae3941066cc7e692b5089052ff17d352e1c6ae05094ddf92ac1926"
   }
 }
